@@ -1,9 +1,7 @@
-// When you are ready to have your work checked, change the value below from N to Y
-// ReadyForSubmission=N
-// YOUR NAME:
-// COLLABORATORS:
-// DATE:  
-
+/**
+ * Your program description here
+ * @author Your Name Here
+ */
 public class Main
 {
 	public static void main(String[] args)
